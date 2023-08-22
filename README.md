@@ -25,9 +25,11 @@
 
 <br>
 <h2>🖥개발환경</h2>
+<div>
 <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows 10&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+</div>
 <br>
 
 <h2>💡프레임워크</h2>
@@ -35,11 +37,13 @@
 <br>
 
 <h2>⚙관리도구, 그 외</h2>
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-
+</div>
 
 
 <!--
