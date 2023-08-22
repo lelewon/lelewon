@@ -6,7 +6,12 @@
 <br>
 
 <h2>🧾참여한 프로젝트</h2>
-<li>Meevoo : 운동 모임, 체육 시설에 대한 정보 제공과 후기를 작성하고 공유할 수 있는 플렛폼 개발 (스프링 기반 제작)</li>
+<ul>
+  <li>Meevoo : 운동 모임, 체육 시설에 대한 정보 제공과 후기를 작성하고 공유할 수 있는 플렛폼 개발 (스프링 기반 제작)</li>
+  <ul type:"circle">
+    <li>내가 구현한 부분 : Main 페이지, Member 페이지, Mypage 페이지, ClubPick</li>
+  </ul>
+</ul>
 <br>
 
 <h2>⌨개발도구</h2>
@@ -17,8 +22,8 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-<br>
 
+<br>
 <h2>🖥개발환경</h2>
 <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows 10&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
